@@ -1,0 +1,79 @@
+App\Entity\Address:
+    address_1:
+        street: "15 rue pavillon"
+        zipcode: "13100"
+        city: "Aix-en-Provence"
+        country: <addressCountry()>
+    address_2:
+        street: "31 rue emanuel"
+        zipcode: "13100"
+        city: "Aix-en-Provence"
+        country: <addressCountry()>
+    address_3:
+        street: "8 rue Italie"
+        zipcode: "13100"
+        city: "Aix-en-Provence"
+        country: <addressCountry()>
+    address_4:
+        street: "7 rue des epinettes"
+        zipcode: "78630"
+        city: "Morainvilliers"
+        country: <addressCountry()>
+
+App\Entity\Member:
+    user_tier_1:
+        firstname: <firstname()>
+        lastname: <lastname()>
+        username: <username()>
+        usernameCanonical: <username()>
+        email: <email()>
+        emailCanonical: <email()>
+        enabled: true
+        phoneNumber: <phoneNumber()>
+        plainPassword: root
+        roles: <randomElements(['ROLE_USER'], 1)>
+        address: '@address_1'
+        civility: "M."
+
+    user_ope_2:
+        firstname: <firstname()>
+        lastname: <lastname()>
+        username: <username()>
+        usernameCanonical: <username()>
+        email: <email()>
+        emailCanonical: <email()>
+        enabled: true
+        phoneNumber: <phoneNumber()>
+        plainPassword: root
+        roles: <randomElements(['ROLE_ADMIN'], 1)>
+        address: '@address_2'
+        civility: "M."
+
+    user_admin_1:
+        firstname: <firstname()>
+        lastname: <lastname()>
+        username: <username()>
+        usernameCanonical: <username()>
+        email: <email()>
+        emailCanonical: <email()>
+        enabled: true
+        phoneNumber: <phoneNumber()>
+        plainPassword: root
+        roles: <randomElements(['ROLE_DIRECTOR'], 1)>
+        address: '@address_3'
+        civility: "Mme"
+
+    user_sadmin_2:
+        firstname: <firstname()>
+        lastname: <lastname()>
+        username: <username()>
+        usernameCanonical: <username()>
+        email: <email()>
+        emailCanonical: <email()>
+        enabled: true
+        phoneNumber: <phoneNumber()>
+        plainPassword: root
+        roles: <randomElements(['ROLE_PRESIDENT'], 1)>
+        address: '@address_4'
+        civility: "Mme"
+
