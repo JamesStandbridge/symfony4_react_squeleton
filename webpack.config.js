@@ -9,7 +9,6 @@ if (!Encore.isRuntimeEnvironmentConfigured()) {
 Encore
     .setOutputPath('public/build/')
     .setPublicPath('/build/')
-    .enableSassLoader()
     .addEntry('react_app', './assets/react_app/js/App.jsx')
     .splitEntryChunks()
     .enableSingleRuntimeChunk()

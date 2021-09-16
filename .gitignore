@@ -27,11 +27,3 @@
 .phpunit.result.cache
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
-
-###> LGB migration csv file ###
-/src/Service/Migration/LGB/LGB_inbentorii.csv
-/src/Service/Migration/LGB/test.csv
-/src/Service/Migration/LGB/MigrationDescriptionAttributes.php
-/src/Service/Migration/LGB/MigrationDescrTest.php
-
-###> LGB migration csv file ###
