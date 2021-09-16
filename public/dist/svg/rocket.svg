@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38.6" height="28.747" viewBox="0 0 38.6 28.747">
+  <g id="Groupe_265" data-name="Groupe 265" transform="translate(-108.549 253.36) rotate(59)">
+    <path id="Tracé_127" data-name="Tracé 127" d="M-120.123-155.289a21.1,21.1,0,0,1-2.9,10.062,21.323,21.323,0,0,1-2.826-10.083Z" transform="translate(-16.43 -66.901)" fill="#1bada0"/>
+    <path id="Tracé_128" data-name="Tracé 128" d="M-118.207-155.282a17.022,17.022,0,0,1-1.553,6.8,17.2,17.2,0,0,1-1.5-6.81Z" transform="translate(-19.681 -66.913)" fill="#6ad3c7"/>
+    <g id="Groupe_264" data-name="Groupe 264" transform="translate(-149.027 -249.689)">
+      <path id="Tracé_129" data-name="Tracé 129" d="M-126.981-158.337h6.032l.219-1.425H-127.2Z" transform="translate(133.555 185.943)" fill="#55648a"/>
+      <g id="Groupe_261" data-name="Groupe 261" transform="translate(0 15.521)">
+        <path id="Tracé_130" data-name="Tracé 130" d="M-101.414-196.38l3.216,5.2a2.519,2.519,0,0,1,.26,2.083l-2.1,6.669a.3.3,0,0,1-.5.114l-3.306-3.517Z" transform="translate(117.001 196.38)" fill="#55648a"/>
+        <path id="Tracé_131" data-name="Tracé 131" d="M-145.434-196.38l-3.216,5.2a2.52,2.52,0,0,0-.261,2.083l2.1,6.669a.3.3,0,0,0,.5.114l3.306-3.517Z" transform="translate(149.027 196.38)" fill="#55648a"/>
+      </g>
+      <path id="Tracé_132" data-name="Tracé 132" d="M-134.611-223.541c-3.659-8.542-3.884-20.875,3.64-26.148,7.523,5.273,7.3,17.606,3.639,26.148Z" transform="translate(140.561 249.689)" fill="#c3cce2"/>
+      <path id="Tracé_133" data-name="Tracé 133" d="M-118.621-179.344h0a1,1,0,0,0,1-.982l.126-6.584a12.141,12.141,0,0,0-.207-2.5l-.633-3.363h-.578l-.633,3.363a12.141,12.141,0,0,0-.207,2.5l.126,6.584A1,1,0,0,0-118.621-179.344Z" transform="translate(128.276 209.347)" fill="#55648a"/>
+      <g id="Groupe_262" data-name="Groupe 262" transform="translate(5.604 5.288)">
+        <circle id="Ellipse_28" data-name="Ellipse 28" cx="3.49" cy="3.49" r="3.49" transform="translate(0 6.895) rotate(-81.12)" fill="#202940"/>
+      </g>
+      <g id="Groupe_263" data-name="Groupe 263" transform="translate(6.911 6.594)">
+        <circle id="Ellipse_29" data-name="Ellipse 29" cx="1.893" cy="1.893" r="1.893" transform="translate(0 3.74) rotate(-81.12)" fill="#fff"/>
+      </g>
+    </g>
+    <path id="Tracé_134" data-name="Tracé 134" d="M-115.916-249.689c4.689,3.321,6.343,9.4,6.023,15.574l3.14,5.075a2.519,2.519,0,0,1,.26,2.083l-2.1,6.669a.3.3,0,0,1-.5.114l-3.222-3.426-.009.022h-.4l-.22,1.425h-2.966Z" transform="translate(-23.471)" fill="#55648a" opacity="0.3"/>
+  </g>
+</svg>

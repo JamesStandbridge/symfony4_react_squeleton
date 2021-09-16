@@ -1,0 +1,37 @@
+###> symfony/framework-bundle ###
+/.env.local
+/.env.local.php
+/.env.*.local
+/config/secrets/prod/prod.decrypt.private.php
+/config/jwt
+/public/bundles/
+/public/build/manifest.json
+/public/build/cashmode.js
+/public/build/
+/public/*.pdf
+/public/uploads/
+/var/
+/log
+/vendor/
+/node_modules/
+###< symfony/framework-bundle ###
+
+.php_cs.cache
+
+###> lexik/jwt-authentication-bundle ###
+/config/jwt/*.pem
+###< lexik/jwt-authentication-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+.phpunit.result.cache
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> LGB migration csv file ###
+/src/Service/Migration/LGB/LGB_inbentorii.csv
+/src/Service/Migration/LGB/test.csv
+/src/Service/Migration/LGB/MigrationDescriptionAttributes.php
+/src/Service/Migration/LGB/MigrationDescrTest.php
+
+###> LGB migration csv file ###

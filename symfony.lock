@@ -35,6 +35,9 @@
     "doctrine/dbal": {
         "version": "2.10.2"
     },
+    "doctrine/deprecations": {
+        "version": "v0.5.3"
+    },
     "doctrine/doctrine-bundle": {
         "version": "2.0",
         "recipe": {
@@ -146,6 +149,9 @@
             "fixtures/.gitignore"
         ]
     },
+    "jetbrains/phpstorm-stubs": {
+        "version": "v2019.3"
+    },
     "laminas/laminas-code": {
         "version": "3.4.1"
     },
@@ -201,6 +207,15 @@
     "php": {
         "version": "7.4"
     },
+    "phpdocumentor/reflection-common": {
+        "version": "2.2.0"
+    },
+    "phpdocumentor/reflection-docblock": {
+        "version": "5.2.2"
+    },
+    "phpdocumentor/type-resolver": {
+        "version": "1.4.0"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -228,6 +243,12 @@
             "config/packages/ramsey_uuid_doctrine.yaml"
         ]
     },
+    "roave/better-reflection": {
+        "version": "4.12.2"
+    },
+    "roave/signature": {
+        "version": "1.4.0"
+    },
     "sebastian/comparator": {
         "version": "4.0.3"
     },
@@ -239,9 +260,6 @@
     },
     "sebastian/recursion-context": {
         "version": "4.0.2"
-    },
-    "stripe/stripe-php": {
-        "version": "v7.49.0"
     },
     "swiftmailer/swiftmailer": {
         "version": "v6.2.3"
@@ -378,9 +396,6 @@
     "symfony/options-resolver": {
         "version": "v4.4.10"
     },
-    "symfony/orm-pack": {
-        "version": "v1.0.8"
-    },
     "symfony/polyfill-intl-icu": {
         "version": "v1.17.0"
     },
@@ -402,8 +417,8 @@
     "symfony/polyfill-php80": {
         "version": "v1.17.0"
     },
-    "symfony/profiler-pack": {
-        "version": "v1.0.4"
+    "symfony/polyfill-php81": {
+        "version": "v1.23.0"
     },
     "symfony/property-access": {
         "version": "v4.4.10"
@@ -505,9 +520,6 @@
             "templates/base.html.twig"
         ]
     },
-    "symfony/twig-pack": {
-        "version": "v1.0.0"
-    },
     "symfony/validator": {
         "version": "4.3",
         "recipe": {
@@ -580,6 +592,9 @@
     },
     "webimpress/safe-writer": {
         "version": "2.0.1"
+    },
+    "webmozart/assert": {
+        "version": "1.10.0"
     },
     "willdurand/jsonp-callback-validator": {
         "version": "v1.1.0"
